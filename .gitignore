@@ -1,0 +1,11 @@
+.vs/
+ipch/
+*.ipch
+Debug/
+Release/
+x64/
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.exe
